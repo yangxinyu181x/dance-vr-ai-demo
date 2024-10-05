@@ -1,36 +1,90 @@
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #0d0d0d;
+    background-color: #121212;
     color: #e6e6e6;
-    line-height: 1.6;
     margin: 0;
     padding: 0;
 }
 
-header {
-    background: linear-gradient(90deg, #00c6ff, #0072ff);
-    padding: 20px;
+.header-banner {
+    position: relative;
     text-align: center;
-    color: #fff;
+    color: white;
 }
 
-h1, h2, h3 {
+.banner-image {
+    width: 100%;
+    height: auto;
+    filter: brightness(70%);
+}
+
+.header-banner h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2.5em;
     color: #00c6ff;
 }
 
-a {
+.content {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+
+.content-left {
+    flex: 1;
+    max-width: 300px;
+    background: #1a1a1a;
+    padding: 20px;
+    border-radius: 8px;
+    margin-right: 20px;
+}
+
+.content-left h3 {
+    color: #00c6ff;
+    font-weight: bold;
+}
+
+.tutorial-list {
+    list-style: none;
+    padding: 0;
+}
+
+.tutorial-list li {
+    margin-bottom: 10px;
+}
+
+.tutorial-list a {
     color: #00c6ff;
     text-decoration: none;
 }
 
-a:hover {
+.tutorial-list a:hover {
     text-decoration: underline;
 }
 
-main {
+.content-right {
+    flex: 3;
     padding: 20px;
-    max-width: 800px;
-    margin: auto;
+    background: #1a1a1a;
+    border-radius: 8px;
+}
+
+.video-section {
+    margin-bottom: 40px;
+}
+
+.video-section h3 {
+    color: #00c6ff;
+}
+
+.video-section video {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 10px;
 }
 
 footer {
