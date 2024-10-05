@@ -86,3 +86,13 @@ footer {
     height: auto;
     border-radius: 10px;
 }
+.video {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+iframe, video {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
