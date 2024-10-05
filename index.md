@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: "赋能教学与创作"
@@ -8,10 +9,10 @@ title: "赋能教学与创作"
 *Empowering Teaching and Creation: What Can Virtual Reality and AI Do for Dance and Stage?*
 
 <div class="container">
-    <div class="video-section">
-    <iframe width="560" height="315" src="https://www.bilibili.com/video/BV1xm1UYNEhi?vd_source=d56189d983b5d02f248147cfa298def3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
+    <div class="content-section">
+        <div class="video">
+            <video controls>
+                <source src="https://yourvideourl1.mp4" type="video/mp4">
                 您的浏览器不支持视频标签。
             </video>
         </div>
