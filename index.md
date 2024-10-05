@@ -10,10 +10,7 @@ title: "赋能教学与创作"
 <div class="container">
     <div class="content-section">
         <div class="video">
-            <video controls>
-                <source src="https://yourvideourl1.mp4" type="video/mp4">
-                您的浏览器不支持视频标签。
-            </video>
+            <iframe src="https://drive.google.com/file/d/1-7DBuu4UY4i8ZGbDuTFcSdExBQO7mARj/preview" width="360" height="640" allow="autoplay"></iframe>
         </div>
         <div class="description">
             <h2>从构想到实现：</h2>
