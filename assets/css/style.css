@@ -96,3 +96,14 @@ iframe, video {
     height: auto;
     border-radius: 10px;
 }
+.video-section {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+video {
+    max-width: 100%;
+    height: auto;
+    aspect-ratio: 9 / 16;
+    border-radius: 10px;
+}
