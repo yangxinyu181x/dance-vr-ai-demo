@@ -10,7 +10,7 @@ title: "赋能教学与创作"
 <div class="container">
     <div class="content-section">
         <div class="video">
-            <iframe src="https://dance-video-storage.oss-rg-china-mainland.aliyuncs.com/%40manersuo_01.mp4" width="360" height="640" allow="autoplay"></iframe>
+            <iframe src="https://www.bilibili.com/video/BV1xm1UYNEhi?vd_source=d56189d983b5d02f248147cfa298def3" width="360" height="640" allow="autoplay"></iframe>
         </div>
         <div class="description">
             <h2>从构想到实现：</h2>
