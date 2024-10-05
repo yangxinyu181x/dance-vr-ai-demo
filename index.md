@@ -7,6 +7,10 @@ title: "赋能教学与创作"
 虚拟现实和人工智能可以为舞蹈和舞台做些什么
 *Empowering Teaching and Creation: What Can Virtual Reality and AI Do for Dance and Stage?*
 
+<div class="header-image">
+    <img src="YOUR_IMAGE_URL" alt="首页图" class="banner-image">
+</div>
+
 <div class="container">
     <div class="content-section">
         <div class="video">
